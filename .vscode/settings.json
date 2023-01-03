@@ -1,0 +1,4 @@
+{
+    "prettier.htmlWhitespaceSensitivity": "css",
+    "prettier.proseWrap": "always"
+}
